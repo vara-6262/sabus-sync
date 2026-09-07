@@ -1,6 +1,80 @@
 {
   "date": "2026-09-07",
-  "completions": {},
-  "flessioni": 0,
-  "flexTs": 0
+  "completions": {
+    "t_1788810500648_v7vv": {
+      "count": 0,
+      "reqs": [
+        false,
+        false
+      ],
+      "done": false,
+      "ts": 0,
+      "dev": ""
+    },
+    "t_1788810500648_v4at": {
+      "count": 3,
+      "reqs": [
+        false,
+        false
+      ],
+      "done": false,
+      "ts": 1788810559332,
+      "dev": "dev_a4rlfm"
+    },
+    "t_1788810500648_92i8": {
+      "count": 6,
+      "reqs": [
+        true,
+        true
+      ],
+      "done": false,
+      "ts": 1788810569654,
+      "dev": "dev_a4rlfm"
+    },
+    "t_1788810500648_3y58": {
+      "count": 0,
+      "reqs": [
+        false
+      ],
+      "done": false,
+      "ts": 0,
+      "dev": ""
+    },
+    "t_1788810500648_z06q": {
+      "count": 2,
+      "reqs": [],
+      "done": false,
+      "ts": 1788810555541,
+      "dev": "dev_a4rlfm"
+    },
+    "t_1788810500648_i3vk": {
+      "count": 2,
+      "reqs": [
+        true
+      ],
+      "done": false,
+      "ts": 1788810562263,
+      "dev": "dev_a4rlfm"
+    },
+    "t_1788810500648_5eou": {
+      "count": 1,
+      "reqs": [
+        true
+      ],
+      "done": false,
+      "ts": 1788810565130,
+      "dev": "dev_a4rlfm"
+    },
+    "t_1788810500648_kakn": {
+      "count": 0,
+      "reqs": [
+        false
+      ],
+      "done": false,
+      "ts": 0,
+      "dev": ""
+    }
+  },
+  "flessioni": 70,
+  "flexTs": 1788810558050
 }
