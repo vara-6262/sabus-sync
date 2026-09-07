@@ -1,1 +1,634 @@
-{}
+{
+  "generatedAt": "2026-09-07T19:50:11.999Z",
+  "env": "Sessione esami",
+  "horizonDays": 7,
+  "reminders": [
+    {
+      "taskId": "t_1788810500648_v7vv",
+      "name": "Denti",
+      "icon": "🦷",
+      "date": "2026-09-07",
+      "at": "07:00",
+      "kind": "available",
+      "text": "🦷 Denti disponibile"
+    },
+    {
+      "taskId": "t_1788810500648_v7vv",
+      "name": "Denti",
+      "icon": "🦷",
+      "date": "2026-09-07",
+      "at": "22:00",
+      "kind": "deadline",
+      "text": "🦷 Denti scade tra un'ora"
+    },
+    {
+      "taskId": "t_1788810500648_v4at",
+      "name": "Studio",
+      "icon": "📚",
+      "date": "2026-09-07",
+      "at": "08:00",
+      "kind": "available",
+      "text": "📚 Studio disponibile"
+    },
+    {
+      "taskId": "t_1788810500648_v4at",
+      "name": "Studio",
+      "icon": "📚",
+      "date": "2026-09-07",
+      "at": "22:00",
+      "kind": "deadline",
+      "text": "📚 Studio scade tra un'ora"
+    },
+    {
+      "taskId": "t_1788810500648_92i8",
+      "name": "Allenamento",
+      "icon": "🏋️",
+      "date": "2026-09-07",
+      "at": "06:00",
+      "kind": "available",
+      "text": "🏋️ Allenamento disponibile"
+    },
+    {
+      "taskId": "t_1788810500648_92i8",
+      "name": "Allenamento",
+      "icon": "🏋️",
+      "date": "2026-09-07",
+      "at": "21:00",
+      "kind": "deadline",
+      "text": "🏋️ Allenamento scade tra un'ora"
+    },
+    {
+      "taskId": "t_1788810500648_i3vk",
+      "name": "Ripasso",
+      "icon": "🧠",
+      "date": "2026-09-07",
+      "at": "09:00",
+      "kind": "available",
+      "text": "🧠 Ripasso disponibile"
+    },
+    {
+      "taskId": "t_1788810500648_i3vk",
+      "name": "Ripasso",
+      "icon": "🧠",
+      "date": "2026-09-07",
+      "at": "22:00",
+      "kind": "deadline",
+      "text": "🧠 Ripasso scade tra un'ora"
+    },
+    {
+      "taskId": "t_1788810500648_5eou",
+      "name": "Gambe",
+      "icon": "🏋️",
+      "date": "2026-09-07",
+      "at": "06:00",
+      "kind": "available",
+      "text": "🏋️ Gambe disponibile"
+    },
+    {
+      "taskId": "t_1788810500648_5eou",
+      "name": "Gambe",
+      "icon": "🏋️",
+      "date": "2026-09-07",
+      "at": "21:00",
+      "kind": "deadline",
+      "text": "🏋️ Gambe scade tra un'ora"
+    },
+    {
+      "taskId": "t_1788810500648_v7vv",
+      "name": "Denti",
+      "icon": "🦷",
+      "date": "2026-09-08",
+      "at": "07:00",
+      "kind": "available",
+      "text": "🦷 Denti disponibile"
+    },
+    {
+      "taskId": "t_1788810500648_v7vv",
+      "name": "Denti",
+      "icon": "🦷",
+      "date": "2026-09-08",
+      "at": "22:00",
+      "kind": "deadline",
+      "text": "🦷 Denti scade tra un'ora"
+    },
+    {
+      "taskId": "t_1788810500648_v4at",
+      "name": "Studio",
+      "icon": "📚",
+      "date": "2026-09-08",
+      "at": "08:00",
+      "kind": "available",
+      "text": "📚 Studio disponibile"
+    },
+    {
+      "taskId": "t_1788810500648_v4at",
+      "name": "Studio",
+      "icon": "📚",
+      "date": "2026-09-08",
+      "at": "22:00",
+      "kind": "deadline",
+      "text": "📚 Studio scade tra un'ora"
+    },
+    {
+      "taskId": "t_1788810500648_i3vk",
+      "name": "Ripasso",
+      "icon": "🧠",
+      "date": "2026-09-08",
+      "at": "09:00",
+      "kind": "available",
+      "text": "🧠 Ripasso disponibile"
+    },
+    {
+      "taskId": "t_1788810500648_i3vk",
+      "name": "Ripasso",
+      "icon": "🧠",
+      "date": "2026-09-08",
+      "at": "22:00",
+      "kind": "deadline",
+      "text": "🧠 Ripasso scade tra un'ora"
+    },
+    {
+      "taskId": "t_1788810500648_v7vv",
+      "name": "Denti",
+      "icon": "🦷",
+      "date": "2026-09-09",
+      "at": "07:00",
+      "kind": "available",
+      "text": "🦷 Denti disponibile"
+    },
+    {
+      "taskId": "t_1788810500648_v7vv",
+      "name": "Denti",
+      "icon": "🦷",
+      "date": "2026-09-09",
+      "at": "22:00",
+      "kind": "deadline",
+      "text": "🦷 Denti scade tra un'ora"
+    },
+    {
+      "taskId": "t_1788810500648_v4at",
+      "name": "Studio",
+      "icon": "📚",
+      "date": "2026-09-09",
+      "at": "08:00",
+      "kind": "available",
+      "text": "📚 Studio disponibile"
+    },
+    {
+      "taskId": "t_1788810500648_v4at",
+      "name": "Studio",
+      "icon": "📚",
+      "date": "2026-09-09",
+      "at": "22:00",
+      "kind": "deadline",
+      "text": "📚 Studio scade tra un'ora"
+    },
+    {
+      "taskId": "t_1788810500648_92i8",
+      "name": "Allenamento",
+      "icon": "🏋️",
+      "date": "2026-09-09",
+      "at": "06:00",
+      "kind": "available",
+      "text": "🏋️ Allenamento disponibile"
+    },
+    {
+      "taskId": "t_1788810500648_92i8",
+      "name": "Allenamento",
+      "icon": "🏋️",
+      "date": "2026-09-09",
+      "at": "21:00",
+      "kind": "deadline",
+      "text": "🏋️ Allenamento scade tra un'ora"
+    },
+    {
+      "taskId": "t_1788810500648_i3vk",
+      "name": "Ripasso",
+      "icon": "🧠",
+      "date": "2026-09-09",
+      "at": "09:00",
+      "kind": "available",
+      "text": "🧠 Ripasso disponibile"
+    },
+    {
+      "taskId": "t_1788810500648_i3vk",
+      "name": "Ripasso",
+      "icon": "🧠",
+      "date": "2026-09-09",
+      "at": "22:00",
+      "kind": "deadline",
+      "text": "🧠 Ripasso scade tra un'ora"
+    },
+    {
+      "taskId": "t_1788810500648_v7vv",
+      "name": "Denti",
+      "icon": "🦷",
+      "date": "2026-09-10",
+      "at": "07:00",
+      "kind": "available",
+      "text": "🦷 Denti disponibile"
+    },
+    {
+      "taskId": "t_1788810500648_v7vv",
+      "name": "Denti",
+      "icon": "🦷",
+      "date": "2026-09-10",
+      "at": "22:00",
+      "kind": "deadline",
+      "text": "🦷 Denti scade tra un'ora"
+    },
+    {
+      "taskId": "t_1788810500648_v4at",
+      "name": "Studio",
+      "icon": "📚",
+      "date": "2026-09-10",
+      "at": "08:00",
+      "kind": "available",
+      "text": "📚 Studio disponibile"
+    },
+    {
+      "taskId": "t_1788810500648_v4at",
+      "name": "Studio",
+      "icon": "📚",
+      "date": "2026-09-10",
+      "at": "22:00",
+      "kind": "deadline",
+      "text": "📚 Studio scade tra un'ora"
+    },
+    {
+      "taskId": "t_1788810500648_i3vk",
+      "name": "Ripasso",
+      "icon": "🧠",
+      "date": "2026-09-10",
+      "at": "09:00",
+      "kind": "available",
+      "text": "🧠 Ripasso disponibile"
+    },
+    {
+      "taskId": "t_1788810500648_i3vk",
+      "name": "Ripasso",
+      "icon": "🧠",
+      "date": "2026-09-10",
+      "at": "22:00",
+      "kind": "deadline",
+      "text": "🧠 Ripasso scade tra un'ora"
+    },
+    {
+      "taskId": "t_1788810500648_kakn",
+      "name": "Spinta",
+      "icon": "🏋️",
+      "date": "2026-09-10",
+      "at": "06:00",
+      "kind": "available",
+      "text": "🏋️ Spinta disponibile"
+    },
+    {
+      "taskId": "t_1788810500648_kakn",
+      "name": "Spinta",
+      "icon": "🏋️",
+      "date": "2026-09-10",
+      "at": "21:00",
+      "kind": "deadline",
+      "text": "🏋️ Spinta scade tra un'ora"
+    },
+    {
+      "taskId": "t_1788810500648_v7vv",
+      "name": "Denti",
+      "icon": "🦷",
+      "date": "2026-09-11",
+      "at": "07:00",
+      "kind": "available",
+      "text": "🦷 Denti disponibile"
+    },
+    {
+      "taskId": "t_1788810500648_v7vv",
+      "name": "Denti",
+      "icon": "🦷",
+      "date": "2026-09-11",
+      "at": "22:00",
+      "kind": "deadline",
+      "text": "🦷 Denti scade tra un'ora"
+    },
+    {
+      "taskId": "t_1788810500648_v4at",
+      "name": "Studio",
+      "icon": "📚",
+      "date": "2026-09-11",
+      "at": "08:00",
+      "kind": "available",
+      "text": "📚 Studio disponibile"
+    },
+    {
+      "taskId": "t_1788810500648_v4at",
+      "name": "Studio",
+      "icon": "📚",
+      "date": "2026-09-11",
+      "at": "22:00",
+      "kind": "deadline",
+      "text": "📚 Studio scade tra un'ora"
+    },
+    {
+      "taskId": "t_1788810500648_92i8",
+      "name": "Allenamento",
+      "icon": "🏋️",
+      "date": "2026-09-11",
+      "at": "06:00",
+      "kind": "available",
+      "text": "🏋️ Allenamento disponibile"
+    },
+    {
+      "taskId": "t_1788810500648_92i8",
+      "name": "Allenamento",
+      "icon": "🏋️",
+      "date": "2026-09-11",
+      "at": "21:00",
+      "kind": "deadline",
+      "text": "🏋️ Allenamento scade tra un'ora"
+    },
+    {
+      "taskId": "t_1788810500648_i3vk",
+      "name": "Ripasso",
+      "icon": "🧠",
+      "date": "2026-09-11",
+      "at": "09:00",
+      "kind": "available",
+      "text": "🧠 Ripasso disponibile"
+    },
+    {
+      "taskId": "t_1788810500648_i3vk",
+      "name": "Ripasso",
+      "icon": "🧠",
+      "date": "2026-09-11",
+      "at": "22:00",
+      "kind": "deadline",
+      "text": "🧠 Ripasso scade tra un'ora"
+    },
+    {
+      "taskId": "t_1788810500648_v7vv",
+      "name": "Denti",
+      "icon": "🦷",
+      "date": "2026-09-12",
+      "at": "07:00",
+      "kind": "available",
+      "text": "🦷 Denti disponibile"
+    },
+    {
+      "taskId": "t_1788810500648_v7vv",
+      "name": "Denti",
+      "icon": "🦷",
+      "date": "2026-09-12",
+      "at": "22:00",
+      "kind": "deadline",
+      "text": "🦷 Denti scade tra un'ora"
+    },
+    {
+      "taskId": "t_1788810500648_3y58",
+      "name": "Pulizia",
+      "icon": "🧹",
+      "date": "2026-09-12",
+      "at": "07:00",
+      "kind": "available",
+      "text": "🧹 Pulizia disponibile"
+    },
+    {
+      "taskId": "t_1788810500648_3y58",
+      "name": "Pulizia",
+      "icon": "🧹",
+      "date": "2026-09-12",
+      "at": "22:00",
+      "kind": "deadline",
+      "text": "🧹 Pulizia scade tra un'ora"
+    },
+    {
+      "taskId": "t_1788810500648_v7vv",
+      "name": "Denti",
+      "icon": "🦷",
+      "date": "2026-09-13",
+      "at": "07:00",
+      "kind": "available",
+      "text": "🦷 Denti disponibile"
+    },
+    {
+      "taskId": "t_1788810500648_v7vv",
+      "name": "Denti",
+      "icon": "🦷",
+      "date": "2026-09-13",
+      "at": "22:00",
+      "kind": "deadline",
+      "text": "🦷 Denti scade tra un'ora"
+    },
+    {
+      "taskId": "t_1788810500648_3y58",
+      "name": "Pulizia",
+      "icon": "🧹",
+      "date": "2026-09-13",
+      "at": "07:00",
+      "kind": "available",
+      "text": "🧹 Pulizia disponibile"
+    },
+    {
+      "taskId": "t_1788810500648_3y58",
+      "name": "Pulizia",
+      "icon": "🧹",
+      "date": "2026-09-13",
+      "at": "22:00",
+      "kind": "deadline",
+      "text": "🧹 Pulizia scade tra un'ora"
+    }
+  ],
+  "tasks": [
+    {
+      "id": "t_1788810500648_v7vv",
+      "name": "Denti",
+      "icon": "🦷",
+      "type": "checklist",
+      "numberMode": null,
+      "target": null,
+      "soglia": null,
+      "costo": null,
+      "requirements": [
+        "Spazzolati 2 min",
+        "Filo interdentale"
+      ],
+      "domain": {
+        "days": [
+          0,
+          1,
+          2,
+          3,
+          4,
+          5,
+          6
+        ],
+        "start": 7,
+        "end": 23,
+        "period": "day"
+      }
+    },
+    {
+      "id": "t_1788810500648_v4at",
+      "name": "Studio",
+      "icon": "📚",
+      "type": "number",
+      "numberMode": "exponential",
+      "target": 6,
+      "soglia": 6,
+      "costo": null,
+      "requirements": [
+        "Sessioni da 25 min",
+        "Zero social"
+      ],
+      "domain": {
+        "days": [
+          0,
+          1,
+          2,
+          3,
+          4
+        ],
+        "start": 8,
+        "end": 23,
+        "period": "day"
+      }
+    },
+    {
+      "id": "t_1788810500648_92i8",
+      "name": "Allenamento",
+      "icon": "🏋️",
+      "type": "number",
+      "numberMode": "linear",
+      "target": 4,
+      "soglia": 5,
+      "costo": null,
+      "requirements": [
+        "Riscaldamento",
+        "Serie complete"
+      ],
+      "domain": {
+        "days": [
+          0,
+          2,
+          4
+        ],
+        "start": 6,
+        "end": 22,
+        "period": "day"
+      }
+    },
+    {
+      "id": "t_1788810500648_3y58",
+      "name": "Pulizia",
+      "icon": "🧹",
+      "type": "checklist",
+      "numberMode": null,
+      "target": null,
+      "soglia": null,
+      "costo": null,
+      "requirements": [
+        "Casa in ordine"
+      ],
+      "domain": {
+        "days": [
+          5,
+          6
+        ],
+        "start": 7,
+        "end": 23,
+        "period": "week"
+      }
+    },
+    {
+      "id": "t_1788810500648_z06q",
+      "name": "Sigaretta",
+      "icon": "🚬",
+      "type": "dipendenza",
+      "numberMode": null,
+      "target": null,
+      "soglia": 1,
+      "costo": 50,
+      "requirements": [],
+      "domain": {
+        "days": [
+          0,
+          1,
+          2,
+          3,
+          4,
+          5,
+          6
+        ],
+        "start": 0,
+        "end": 24,
+        "period": "day"
+      }
+    },
+    {
+      "id": "t_1788810500648_i3vk",
+      "name": "Ripasso",
+      "icon": "🧠",
+      "type": "number",
+      "numberMode": "exponential",
+      "target": 6,
+      "soglia": 8,
+      "costo": null,
+      "requirements": [
+        "Riassunti attivi"
+      ],
+      "domain": {
+        "days": [
+          0,
+          1,
+          2,
+          3,
+          4
+        ],
+        "start": 9,
+        "end": 23,
+        "period": "day"
+      }
+    },
+    {
+      "id": "t_1788810500648_5eou",
+      "name": "Gambe",
+      "icon": "🏋️",
+      "type": "number",
+      "numberMode": "linear",
+      "target": 4,
+      "soglia": 5,
+      "costo": null,
+      "requirements": [
+        "Riscaldamento"
+      ],
+      "domain": {
+        "days": [
+          0
+        ],
+        "start": 6,
+        "end": 22,
+        "period": "day"
+      }
+    },
+    {
+      "id": "t_1788810500648_kakn",
+      "name": "Spinta",
+      "icon": "🏋️",
+      "type": "number",
+      "numberMode": "linear",
+      "target": 4,
+      "soglia": 5,
+      "costo": null,
+      "requirements": [
+        "Riscaldamento"
+      ],
+      "domain": {
+        "days": [
+          3
+        ],
+        "start": 6,
+        "end": 22,
+        "period": "day"
+      }
+    }
+  ],
+  "flessioni": 70
+}
