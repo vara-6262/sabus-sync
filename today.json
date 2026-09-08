@@ -1,1 +1,121 @@
-{"date":"2026-09-08","completions":{"t_1788810500648_v7vv":{"count":0,"reqs":[true,true],"done":false,"ts":1788856697085,"dev":"phone_0w7xov"},"t_1788810500648_v4at":{"count":13,"reqs":[true,true],"done":false,"ts":1788856618550,"dev":"phone_0w7xov"},"t_1788810500648_92i8":{"count":0,"reqs":[false,false],"done":false,"ts":0,"dev":""},"t_1788810500648_3y58":{"count":0,"reqs":[false],"done":false,"ts":0,"dev":""},"t_1788810500648_z06q":{"count":1,"reqs":[],"done":false,"ts":1788850974850,"dev":"dev_a4rlfm"},"t_1788810500648_i3vk":{"count":4,"reqs":[false],"done":false,"ts":1788871830188,"dev":"phone_0w7xov"},"t_1788810500648_5eou":{"count":0,"reqs":[false],"done":false,"ts":0,"dev":""},"t_1788810500648_kakn":{"count":0,"reqs":[false],"done":false,"ts":0,"dev":""}},"flessioni":395,"flexTs":1788856687252}
+{
+  "date": "2026-09-08",
+  "completions": {
+    "t_1788873323089_xquq": {
+      "count": 0,
+      "reqs": [
+        false
+      ],
+      "done": false,
+      "ts": 0,
+      "dev": ""
+    },
+    "t_1788873375941_pcle": {
+      "count": 0,
+      "reqs": [
+        false
+      ],
+      "done": false,
+      "ts": 1788875063053,
+      "dev": "dev_cpu2lu"
+    },
+    "t_1788873419428_rky7": {
+      "count": 0,
+      "reqs": [
+        true
+      ],
+      "done": false,
+      "ts": 1788873421986,
+      "dev": "dev_cpu2lu"
+    },
+    "t_1788873587811_gr8z": {
+      "count": 0,
+      "reqs": [
+        false,
+        false
+      ],
+      "done": false,
+      "ts": 0,
+      "dev": ""
+    },
+    "t_1788873703127_vj21": {
+      "count": 0,
+      "reqs": [],
+      "done": false,
+      "ts": 1788875064066,
+      "dev": "dev_cpu2lu"
+    },
+    "t_1788873779290_21wu": {
+      "count": 0,
+      "reqs": [],
+      "done": false,
+      "ts": 0,
+      "dev": ""
+    },
+    "t_1788873902259_3syc": {
+      "count": 0,
+      "reqs": [
+        false
+      ],
+      "done": false,
+      "ts": 0,
+      "dev": ""
+    },
+    "t_1788874786459_ivza": {
+      "count": 0,
+      "reqs": [],
+      "done": false,
+      "ts": 0,
+      "dev": ""
+    },
+    "t_1788874810206_dkx0": {
+      "count": 0,
+      "reqs": [],
+      "done": false,
+      "ts": 0,
+      "dev": ""
+    },
+    "t_1788875035532_bu8i": {
+      "count": 0,
+      "reqs": [
+        true
+      ],
+      "done": false,
+      "ts": 1788879455202,
+      "dev": "dev_cpu2lu"
+    },
+    "t_1788875130057_s7cc": {
+      "count": 1,
+      "reqs": [],
+      "done": false,
+      "ts": 1788875178876,
+      "dev": "dev_cpu2lu"
+    },
+    "t_1788875162431_cyxk": {
+      "count": 3,
+      "reqs": [],
+      "done": false,
+      "ts": 1788875171645,
+      "dev": "dev_cpu2lu"
+    },
+    "t_1788875228579_fn6y": {
+      "count": 0,
+      "reqs": [],
+      "done": false,
+      "ts": 0,
+      "dev": ""
+    },
+    "t_1788875359199_eu6n": {
+      "count": 0,
+      "reqs": [
+        false,
+        false
+      ],
+      "done": false,
+      "ts": 0,
+      "dev": ""
+    }
+  },
+  "flessioni": -50,
+  "flexTs": 1788875178876
+}
