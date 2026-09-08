@@ -1,1 +1,78 @@
-{"date":"2026-09-08","completions":{"t_1788810500648_v7vv":{"count":0,"reqs":[true,true],"done":false,"ts":1788850212918,"dev":"dev_a4rlfm"},"t_1788810500648_v4at":{"count":7,"reqs":[true,true],"done":false,"ts":1788856042185,"dev":"phone_0w7xov"},"t_1788810500648_92i8":{"count":0,"reqs":[false,false],"done":false,"ts":0,"dev":""},"t_1788810500648_3y58":{"count":0,"reqs":[false],"done":false,"ts":0,"dev":""},"t_1788810500648_z06q":{"count":1,"reqs":[],"done":false,"ts":1788850974850,"dev":"dev_a4rlfm"},"t_1788810500648_i3vk":{"count":1,"reqs":[],"done":false,"ts":1788856033827,"dev":"phone_0w7xov"},"t_1788810500648_5eou":{"count":0,"reqs":[false],"done":false,"ts":0,"dev":""},"t_1788810500648_kakn":{"count":0,"reqs":[false],"done":false,"ts":0,"dev":""}},"flessioni":195,"flexTs":1788850974850}
+{
+  "date": "2026-09-08",
+  "completions": {
+    "t_1788810500648_v7vv": {
+      "count": 0,
+      "reqs": [
+        true,
+        true
+      ],
+      "done": false,
+      "ts": 1788850212918,
+      "dev": "dev_a4rlfm"
+    },
+    "t_1788810500648_v4at": {
+      "count": 7,
+      "reqs": [
+        true,
+        true
+      ],
+      "done": false,
+      "ts": 1788856042185,
+      "dev": "phone_0w7xov"
+    },
+    "t_1788810500648_92i8": {
+      "count": 0,
+      "reqs": [
+        false,
+        false
+      ],
+      "done": false,
+      "ts": 0,
+      "dev": ""
+    },
+    "t_1788810500648_3y58": {
+      "count": 0,
+      "reqs": [
+        false
+      ],
+      "done": false,
+      "ts": 0,
+      "dev": ""
+    },
+    "t_1788810500648_z06q": {
+      "count": 1,
+      "reqs": [],
+      "done": false,
+      "ts": 1788850974850,
+      "dev": "dev_a4rlfm"
+    },
+    "t_1788810500648_i3vk": {
+      "count": 1,
+      "reqs": [],
+      "done": false,
+      "ts": 1788856033827,
+      "dev": "phone_0w7xov"
+    },
+    "t_1788810500648_5eou": {
+      "count": 0,
+      "reqs": [
+        false
+      ],
+      "done": false,
+      "ts": 0,
+      "dev": ""
+    },
+    "t_1788810500648_kakn": {
+      "count": 0,
+      "reqs": [
+        false
+      ],
+      "done": false,
+      "ts": 0,
+      "dev": ""
+    }
+  },
+  "flessioni": 195,
+  "flexTs": 1788850974850
+}
