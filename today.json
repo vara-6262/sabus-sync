@@ -12,13 +12,13 @@
       "dev": "dev_a4rlfm"
     },
     "t_1788810500648_v4at": {
-      "count": 5,
+      "count": 6,
       "reqs": [
-        false,
-        false
+        true,
+        true
       ],
       "done": false,
-      "ts": 1788850221929,
+      "ts": 1788851006422,
       "dev": "dev_a4rlfm"
     },
     "t_1788810500648_92i8": {
@@ -44,7 +44,7 @@
       "count": 1,
       "reqs": [],
       "done": false,
-      "ts": 1788850136248,
+      "ts": 1788850974850,
       "dev": "dev_a4rlfm"
     },
     "t_1788810500648_i3vk": {
@@ -74,5 +74,5 @@
     }
   },
   "flessioni": 195,
-  "flexTs": 1788850136248
+  "flexTs": 1788850974850
 }
