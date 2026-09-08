@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-08T08:36:13.981Z",
+  "generatedAt": "2026-09-08T08:38:38.935Z",
   "env": "Sessione esami",
   "horizonDays": 7,
   "reminders": [
@@ -630,5 +630,5 @@
       }
     }
   ],
-  "flessioni": 195
+  "flessioni": 395
 }
