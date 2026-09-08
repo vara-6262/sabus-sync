@@ -1,1 +1,78 @@
-{"date":"2026-09-08","completions":{"t_1788810500648_v7vv":{"count":0,"reqs":[true,true],"done":false,"ts":1788849784933,"dev":"phone_wevgyf"},"t_1788810500648_i3vk":{"count":3,"reqs":[],"done":false,"ts":1788849814698,"dev":"phone_wevgyf"},"t_1788810500648_v4at":{"count":1,"reqs":[],"done":false,"ts":1788850183478,"dev":"phone_wevgyf"}},"flessioni":0,"flexTs":0}
+{
+  "date": "2026-09-08",
+  "completions": {
+    "t_1788810500648_v7vv": {
+      "count": 0,
+      "reqs": [
+        true,
+        true
+      ],
+      "done": false,
+      "ts": 1788850212918,
+      "dev": "dev_a4rlfm"
+    },
+    "t_1788810500648_v4at": {
+      "count": 5,
+      "reqs": [
+        false,
+        false
+      ],
+      "done": false,
+      "ts": 1788850221929,
+      "dev": "dev_a4rlfm"
+    },
+    "t_1788810500648_92i8": {
+      "count": 0,
+      "reqs": [
+        false,
+        false
+      ],
+      "done": false,
+      "ts": 0,
+      "dev": ""
+    },
+    "t_1788810500648_3y58": {
+      "count": 0,
+      "reqs": [
+        false
+      ],
+      "done": false,
+      "ts": 0,
+      "dev": ""
+    },
+    "t_1788810500648_z06q": {
+      "count": 1,
+      "reqs": [],
+      "done": false,
+      "ts": 1788850136248,
+      "dev": "dev_a4rlfm"
+    },
+    "t_1788810500648_i3vk": {
+      "count": 3,
+      "reqs": [],
+      "done": false,
+      "ts": 1788849814698,
+      "dev": "phone_wevgyf"
+    },
+    "t_1788810500648_5eou": {
+      "count": 0,
+      "reqs": [
+        false
+      ],
+      "done": false,
+      "ts": 0,
+      "dev": ""
+    },
+    "t_1788810500648_kakn": {
+      "count": 0,
+      "reqs": [
+        false
+      ],
+      "done": false,
+      "ts": 0,
+      "dev": ""
+    }
+  },
+  "flessioni": 195,
+  "flexTs": 1788850136248
+}
