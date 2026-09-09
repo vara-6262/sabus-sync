@@ -13,11 +13,11 @@
     "t_1788873375941_pcle": {
       "count": 0,
       "reqs": [
-        false
+        true
       ],
       "done": false,
-      "ts": 0,
-      "dev": ""
+      "ts": 1788940763970,
+      "dev": "dev_cpu2lu"
     },
     "t_1788873419428_rky7": {
       "count": 0,
@@ -48,9 +48,9 @@
     "t_1788873779290_21wu": {
       "count": 0,
       "reqs": [],
-      "done": false,
-      "ts": 0,
-      "dev": ""
+      "done": true,
+      "ts": 1788940770539,
+      "dev": "dev_cpu2lu"
     },
     "t_1788873902259_3syc": {
       "count": 0,
@@ -117,5 +117,5 @@
     }
   },
   "flessioni": 10,
-  "flexTs": 1788889639670
+  "flexTs": 1788940811553
 }
