@@ -88,7 +88,7 @@
       "count": 1,
       "reqs": [],
       "done": false,
-      "ts": 1788967111448,
+      "ts": 1788967138733,
       "dev": "dev_cpu2lu"
     },
     "t_1788875162431_cyxk": {
@@ -116,6 +116,6 @@
       "dev": "dev_cpu2lu"
     }
   },
-  "flessioni": -20,
-  "flexTs": 1788967111448
+  "flessioni": 0,
+  "flexTs": 1788967138733
 }
