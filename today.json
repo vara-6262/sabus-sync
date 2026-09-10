@@ -22,10 +22,10 @@
     "t_1788873419428_rky7": {
       "count": 0,
       "reqs": [
-        false
+        true
       ],
       "done": false,
-      "ts": 1789028443345,
+      "ts": 1789039594606,
       "dev": "dev_cpu2lu"
     },
     "t_1788873587811_gr8z": {
@@ -78,11 +78,11 @@
     "t_1788875035532_bu8i": {
       "count": 0,
       "reqs": [
-        false
+        true
       ],
       "done": false,
-      "ts": 0,
-      "dev": ""
+      "ts": 1789039599129,
+      "dev": "dev_cpu2lu"
     },
     "t_1788875130057_s7cc": {
       "count": 1,
@@ -112,8 +112,8 @@
         false
       ],
       "done": false,
-      "ts": 0,
-      "dev": ""
+      "ts": 1789039618934,
+      "dev": "dev_cpu2lu"
     }
   },
   "flessioni": -20,
