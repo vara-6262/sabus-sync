@@ -1,1 +1,121 @@
-{"date":"2026-09-10","completions":{"t_1788873323089_xquq":{"count":0,"reqs":[false],"done":false,"ts":0,"dev":""},"t_1788873375941_pcle":{"count":0,"reqs":[true],"done":false,"ts":1789027825234,"dev":"dev_cpu2lu"},"t_1788873419428_rky7":{"count":0,"reqs":[true],"done":false,"ts":1789039594606,"dev":"dev_cpu2lu"},"t_1788873587811_gr8z":{"count":0,"reqs":[false,false],"done":false,"ts":0,"dev":""},"t_1788873703127_vj21":{"count":0,"reqs":[],"done":false,"ts":1789028438634,"dev":"dev_cpu2lu"},"t_1788873779290_21wu":{"count":0,"reqs":[],"done":false,"ts":0,"dev":""},"t_1788873902259_3syc":{"count":0,"reqs":[true],"done":false,"ts":1789070652090,"dev":"phone_piq4kj"},"t_1788874786459_ivza":{"count":0,"reqs":[],"done":false,"ts":0,"dev":""},"t_1788874810206_dkx0":{"count":0,"reqs":[],"done":false,"ts":0,"dev":""},"t_1788875035532_bu8i":{"count":0,"reqs":[true],"done":false,"ts":1789039599129,"dev":"dev_cpu2lu"},"t_1788875130057_s7cc":{"count":2,"reqs":[],"done":false,"ts":1789050464651,"dev":"dev_cpu2lu"},"t_1788875162431_cyxk":{"count":0,"reqs":[],"done":false,"ts":0,"dev":""},"t_1788875228579_fn6y":{"count":0,"reqs":[],"done":false,"ts":0,"dev":""},"t_1788875359199_eu6n":{"count":2,"reqs":[false,false],"done":false,"ts":1789042792659,"dev":"dev_cpu2lu"}},"flessioni":-40,"flexTs":1789050464651}
+{
+  "date": "2026-09-10",
+  "completions": {
+    "t_1788873323089_xquq": {
+      "count": 0,
+      "reqs": [
+        false
+      ],
+      "done": false,
+      "ts": 0,
+      "dev": ""
+    },
+    "t_1788873375941_pcle": {
+      "count": 0,
+      "reqs": [
+        true
+      ],
+      "done": false,
+      "ts": 1789027825234,
+      "dev": "dev_cpu2lu"
+    },
+    "t_1788873419428_rky7": {
+      "count": 0,
+      "reqs": [
+        true
+      ],
+      "done": false,
+      "ts": 1789039594606,
+      "dev": "dev_cpu2lu"
+    },
+    "t_1788873587811_gr8z": {
+      "count": 0,
+      "reqs": [
+        false,
+        false
+      ],
+      "done": false,
+      "ts": 0,
+      "dev": ""
+    },
+    "t_1788873703127_vj21": {
+      "count": 0,
+      "reqs": [],
+      "done": false,
+      "ts": 1789028438634,
+      "dev": "dev_cpu2lu"
+    },
+    "t_1788873779290_21wu": {
+      "count": 0,
+      "reqs": [],
+      "done": false,
+      "ts": 0,
+      "dev": ""
+    },
+    "t_1788873902259_3syc": {
+      "count": 0,
+      "reqs": [
+        true
+      ],
+      "done": false,
+      "ts": 1789070652090,
+      "dev": "phone_piq4kj"
+    },
+    "t_1788874786459_ivza": {
+      "count": 0,
+      "reqs": [],
+      "done": false,
+      "ts": 0,
+      "dev": ""
+    },
+    "t_1788874810206_dkx0": {
+      "count": 0,
+      "reqs": [],
+      "done": false,
+      "ts": 0,
+      "dev": ""
+    },
+    "t_1788875035532_bu8i": {
+      "count": 0,
+      "reqs": [
+        true
+      ],
+      "done": false,
+      "ts": 1789039599129,
+      "dev": "dev_cpu2lu"
+    },
+    "t_1788875130057_s7cc": {
+      "count": 2,
+      "reqs": [],
+      "done": false,
+      "ts": 1789050464651,
+      "dev": "dev_cpu2lu"
+    },
+    "t_1788875162431_cyxk": {
+      "count": 1,
+      "reqs": [],
+      "done": false,
+      "ts": 1789070710563,
+      "dev": "dev_cpu2lu"
+    },
+    "t_1788875228579_fn6y": {
+      "count": 1,
+      "reqs": [],
+      "done": false,
+      "ts": 1789070708711,
+      "dev": "dev_cpu2lu"
+    },
+    "t_1788875359199_eu6n": {
+      "count": 2,
+      "reqs": [
+        false,
+        false
+      ],
+      "done": false,
+      "ts": 1789042792659,
+      "dev": "dev_cpu2lu"
+    }
+  },
+  "flessioni": -70,
+  "flexTs": 1789070710563
+}
