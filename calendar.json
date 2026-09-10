@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-10T08:18:04.441Z",
+  "generatedAt": "2026-09-10T08:19:20.708Z",
   "env": "Trento",
   "horizonDays": 7,
   "reminders": [
@@ -1302,5 +1302,5 @@
       }
     }
   ],
-  "flessioni": 0
+  "flessioni": -20
 }
