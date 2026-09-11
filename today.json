@@ -85,10 +85,10 @@
       "dev": "dev_cpu2lu"
     },
     "t_1788875130057_s7cc": {
-      "count": 1,
+      "count": 2,
       "reqs": [],
       "done": false,
-      "ts": 1789134127077,
+      "ts": 1789162425435,
       "dev": "dev_cpu2lu"
     },
     "t_1788875162431_cyxk": {
@@ -114,8 +114,17 @@
       "done": false,
       "ts": 1789151155014,
       "dev": "phone_piq4kj"
+    },
+    "t_1789162477855_8fip": {
+      "count": 0,
+      "reqs": [
+        false
+      ],
+      "done": false,
+      "ts": 0,
+      "dev": ""
     }
   },
   "flessioni": 0,
-  "flexTs": 1789134129104
+  "flexTs": 1789162425435
 }
