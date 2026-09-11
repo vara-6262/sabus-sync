@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-11T21:34:27.817Z",
+  "generatedAt": "2026-09-11T21:35:28.339Z",
   "env": "Trento",
   "horizonDays": 7,
   "reminders": [
@@ -130,6 +130,24 @@
       "text": "📖 Studio scade tra 30 minuti"
     },
     {
+      "taskId": "t_1789162477855_8fip",
+      "name": "mindfullness",
+      "icon": "🧘",
+      "date": "2026-09-11",
+      "at": "06:00",
+      "kind": "available",
+      "text": "🧘 mindfullness disponibile"
+    },
+    {
+      "taskId": "t_1789162477855_8fip",
+      "name": "mindfullness",
+      "icon": "🧘",
+      "date": "2026-09-11",
+      "at": "22:30",
+      "kind": "deadline",
+      "text": "🧘 mindfullness scade tra 30 minuti"
+    },
+    {
       "taskId": "t_1788873323089_xquq",
       "name": "Sonno",
       "icon": "🛏️",
@@ -310,6 +328,24 @@
       "text": "📖 Studio scade tra 30 minuti"
     },
     {
+      "taskId": "t_1789162477855_8fip",
+      "name": "mindfullness",
+      "icon": "🧘",
+      "date": "2026-09-12",
+      "at": "06:00",
+      "kind": "available",
+      "text": "🧘 mindfullness disponibile"
+    },
+    {
+      "taskId": "t_1789162477855_8fip",
+      "name": "mindfullness",
+      "icon": "🧘",
+      "date": "2026-09-12",
+      "at": "22:30",
+      "kind": "deadline",
+      "text": "🧘 mindfullness scade tra 30 minuti"
+    },
+    {
       "taskId": "t_1788873375941_pcle",
       "name": "Denti",
       "icon": "🪥",
@@ -436,6 +472,24 @@
       "text": "🗣️ Social scade tra 30 minuti"
     },
     {
+      "taskId": "t_1789162477855_8fip",
+      "name": "mindfullness",
+      "icon": "🧘",
+      "date": "2026-09-13",
+      "at": "06:00",
+      "kind": "available",
+      "text": "🧘 mindfullness disponibile"
+    },
+    {
+      "taskId": "t_1789162477855_8fip",
+      "name": "mindfullness",
+      "icon": "🧘",
+      "date": "2026-09-13",
+      "at": "22:30",
+      "kind": "deadline",
+      "text": "🧘 mindfullness scade tra 30 minuti"
+    },
+    {
       "taskId": "t_1788873323089_xquq",
       "name": "Sonno",
       "icon": "🛏️",
@@ -560,6 +614,24 @@
       "at": "22:30",
       "kind": "deadline",
       "text": "📖 Studio scade tra 30 minuti"
+    },
+    {
+      "taskId": "t_1789162477855_8fip",
+      "name": "mindfullness",
+      "icon": "🧘",
+      "date": "2026-09-14",
+      "at": "06:00",
+      "kind": "available",
+      "text": "🧘 mindfullness disponibile"
+    },
+    {
+      "taskId": "t_1789162477855_8fip",
+      "name": "mindfullness",
+      "icon": "🧘",
+      "date": "2026-09-14",
+      "at": "22:30",
+      "kind": "deadline",
+      "text": "🧘 mindfullness scade tra 30 minuti"
     },
     {
       "taskId": "t_1788873323089_xquq",
@@ -706,6 +778,24 @@
       "text": "📖 Studio scade tra 30 minuti"
     },
     {
+      "taskId": "t_1789162477855_8fip",
+      "name": "mindfullness",
+      "icon": "🧘",
+      "date": "2026-09-15",
+      "at": "06:00",
+      "kind": "available",
+      "text": "🧘 mindfullness disponibile"
+    },
+    {
+      "taskId": "t_1789162477855_8fip",
+      "name": "mindfullness",
+      "icon": "🧘",
+      "date": "2026-09-15",
+      "at": "22:30",
+      "kind": "deadline",
+      "text": "🧘 mindfullness scade tra 30 minuti"
+    },
+    {
       "taskId": "t_1788873375941_pcle",
       "name": "Denti",
       "icon": "🪥",
@@ -812,6 +902,24 @@
       "at": "22:30",
       "kind": "deadline",
       "text": "📖 Studio scade tra 30 minuti"
+    },
+    {
+      "taskId": "t_1789162477855_8fip",
+      "name": "mindfullness",
+      "icon": "🧘",
+      "date": "2026-09-16",
+      "at": "06:00",
+      "kind": "available",
+      "text": "🧘 mindfullness disponibile"
+    },
+    {
+      "taskId": "t_1789162477855_8fip",
+      "name": "mindfullness",
+      "icon": "🧘",
+      "date": "2026-09-16",
+      "at": "22:30",
+      "kind": "deadline",
+      "text": "🧘 mindfullness scade tra 30 minuti"
     },
     {
       "taskId": "t_1788873323089_xquq",
@@ -956,6 +1064,24 @@
       "at": "22:30",
       "kind": "deadline",
       "text": "📖 Studio scade tra 30 minuti"
+    },
+    {
+      "taskId": "t_1789162477855_8fip",
+      "name": "mindfullness",
+      "icon": "🧘",
+      "date": "2026-09-17",
+      "at": "06:00",
+      "kind": "available",
+      "text": "🧘 mindfullness disponibile"
+    },
+    {
+      "taskId": "t_1789162477855_8fip",
+      "name": "mindfullness",
+      "icon": "🧘",
+      "date": "2026-09-17",
+      "at": "22:30",
+      "kind": "deadline",
+      "text": "🧘 mindfullness scade tra 30 minuti"
     }
   ],
   "tasks": [
@@ -1295,6 +1421,33 @@
           3,
           4,
           5
+        ],
+        "start": 6,
+        "end": 23,
+        "period": "day"
+      }
+    },
+    {
+      "id": "t_1789162477855_8fip",
+      "name": "mindfullness",
+      "icon": "🧘",
+      "type": "checklist",
+      "numberMode": null,
+      "target": null,
+      "soglia": null,
+      "costo": null,
+      "requirements": [
+        "10 minuti di mindfullness"
+      ],
+      "domain": {
+        "days": [
+          0,
+          1,
+          2,
+          3,
+          4,
+          5,
+          6
         ],
         "start": 6,
         "end": 23,
