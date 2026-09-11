@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-11T06:08:52.523Z",
+  "generatedAt": "2026-09-11T06:10:03.849Z",
   "env": "Trento",
   "horizonDays": 7,
   "reminders": [
@@ -1048,8 +1048,8 @@
       "soglia": null,
       "costo": null,
       "requirements": [
-        "No vestiti per terra",
-        "No vestiti sulla sedia"
+        "Chiudere luce",
+        "Tirare l' acqua"
       ],
       "domain": {
         "days": [
