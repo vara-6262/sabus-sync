@@ -106,16 +106,16 @@
       "dev": ""
     },
     "t_1788875359199_eu6n": {
-      "count": 4,
+      "count": 0,
       "reqs": [
         false,
         false
       ],
       "done": false,
-      "ts": 1789122923632,
+      "ts": 1789126522576,
       "dev": "dev_cpu2lu"
     }
   },
-  "flessioni": -50,
-  "flexTs": 1789108950982
+  "flessioni": 0,
+  "flexTs": 1789126501532
 }
