@@ -85,10 +85,10 @@
       "dev": ""
     },
     "t_1788875130057_s7cc": {
-      "count": 1,
+      "count": 2,
       "reqs": [],
       "done": false,
-      "ts": 1789216029455,
+      "ts": 1789234717921,
       "dev": "dev_cpu2lu"
     },
     "t_1788875162431_cyxk": {
@@ -125,6 +125,6 @@
       "dev": "dev_cpu2lu"
     }
   },
-  "flessioni": 20,
-  "flexTs": 1789234678947
+  "flessioni": 0,
+  "flexTs": 1789234717921
 }
