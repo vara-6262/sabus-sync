@@ -92,18 +92,18 @@
       "dev": ""
     },
     "t_1788875162431_cyxk": {
-      "count": 0,
+      "count": 1,
       "reqs": [],
       "done": false,
-      "ts": 0,
-      "dev": ""
+      "ts": 1789209472157,
+      "dev": "dev_cpu2lu"
     },
     "t_1788875228579_fn6y": {
-      "count": 0,
+      "count": 1,
       "reqs": [],
       "done": false,
-      "ts": 0,
-      "dev": ""
+      "ts": 1789209469035,
+      "dev": "dev_cpu2lu"
     },
     "t_1788875359199_eu6n": {
       "count": 0,
@@ -126,5 +126,5 @@
     }
   },
   "flessioni": 0,
-  "flexTs": 1789164240708
+  "flexTs": 1789209486147
 }
