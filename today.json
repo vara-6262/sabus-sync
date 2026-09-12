@@ -22,11 +22,11 @@
     "t_1788873419428_rky7": {
       "count": 0,
       "reqs": [
-        false
+        true
       ],
       "done": false,
-      "ts": 0,
-      "dev": ""
+      "ts": 1789209525006,
+      "dev": "dev_cpu2lu"
     },
     "t_1788873587811_gr8z": {
       "count": 0,
@@ -41,9 +41,9 @@
     "t_1788873703127_vj21": {
       "count": 0,
       "reqs": [],
-      "done": false,
-      "ts": 0,
-      "dev": ""
+      "done": true,
+      "ts": 1789209522120,
+      "dev": "dev_cpu2lu"
     },
     "t_1788873779290_21wu": {
       "count": 0,
@@ -64,9 +64,9 @@
     "t_1788874786459_ivza": {
       "count": 0,
       "reqs": [],
-      "done": false,
-      "ts": 0,
-      "dev": ""
+      "done": true,
+      "ts": 1789209528611,
+      "dev": "dev_cpu2lu"
     },
     "t_1788874810206_dkx0": {
       "count": 0,
@@ -95,14 +95,14 @@
       "count": 1,
       "reqs": [],
       "done": false,
-      "ts": 1789209472157,
+      "ts": 1789209508798,
       "dev": "dev_cpu2lu"
     },
     "t_1788875228579_fn6y": {
       "count": 1,
       "reqs": [],
       "done": false,
-      "ts": 1789209469035,
+      "ts": 1789209509527,
       "dev": "dev_cpu2lu"
     },
     "t_1788875359199_eu6n": {
@@ -125,6 +125,6 @@
       "dev": ""
     }
   },
-  "flessioni": 0,
-  "flexTs": 1789209486147
+  "flessioni": -30,
+  "flexTs": 1789209509527
 }
