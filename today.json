@@ -16,8 +16,8 @@
         false
       ],
       "done": false,
-      "ts": 0,
-      "dev": ""
+      "ts": 1789234672031,
+      "dev": "dev_cpu2lu"
     },
     "t_1788873419428_rky7": {
       "count": 0,
@@ -125,6 +125,6 @@
       "dev": "dev_cpu2lu"
     }
   },
-  "flessioni": 0,
-  "flexTs": 1789226879151
+  "flessioni": 20,
+  "flexTs": 1789234678947
 }
