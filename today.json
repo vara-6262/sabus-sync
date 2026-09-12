@@ -1,42 +1,42 @@
 {
-  "date": "2026-09-11",
+  "date": "2026-09-12",
   "completions": {
     "t_1788873323089_xquq": {
       "count": 0,
       "reqs": [
-        true
+        false
       ],
       "done": false,
-      "ts": 1789151173857,
-      "dev": "phone_piq4kj"
+      "ts": 0,
+      "dev": ""
     },
     "t_1788873375941_pcle": {
       "count": 0,
       "reqs": [
-        true
+        false
       ],
       "done": false,
-      "ts": 1789118127387,
-      "dev": "dev_cpu2lu"
+      "ts": 0,
+      "dev": ""
     },
     "t_1788873419428_rky7": {
       "count": 0,
       "reqs": [
-        true
+        false
       ],
       "done": false,
-      "ts": 1789122477334,
-      "dev": "dev_cpu2lu"
+      "ts": 0,
+      "dev": ""
     },
     "t_1788873587811_gr8z": {
       "count": 0,
       "reqs": [
         false,
-        true
+        false
       ],
       "done": false,
-      "ts": 1789151171853,
-      "dev": "phone_piq4kj"
+      "ts": 0,
+      "dev": ""
     },
     "t_1788873703127_vj21": {
       "count": 0,
@@ -48,9 +48,9 @@
     "t_1788873779290_21wu": {
       "count": 0,
       "reqs": [],
-      "done": true,
-      "ts": 1789151158031,
-      "dev": "phone_piq4kj"
+      "done": false,
+      "ts": 0,
+      "dev": ""
     },
     "t_1788873902259_3syc": {
       "count": 0,
@@ -78,25 +78,25 @@
     "t_1788875035532_bu8i": {
       "count": 0,
       "reqs": [
-        true
+        false
       ],
       "done": false,
-      "ts": 1789122499496,
-      "dev": "dev_cpu2lu"
+      "ts": 0,
+      "dev": ""
     },
     "t_1788875130057_s7cc": {
-      "count": 2,
+      "count": 0,
       "reqs": [],
       "done": false,
-      "ts": 1789162425435,
-      "dev": "dev_cpu2lu"
+      "ts": 0,
+      "dev": ""
     },
     "t_1788875162431_cyxk": {
-      "count": 3,
+      "count": 0,
       "reqs": [],
       "done": false,
-      "ts": 1789164232966,
-      "dev": "dev_cpu2lu"
+      "ts": 0,
+      "dev": ""
     },
     "t_1788875228579_fn6y": {
       "count": 0,
@@ -112,8 +112,8 @@
         false
       ],
       "done": false,
-      "ts": 1789151155014,
-      "dev": "phone_piq4kj"
+      "ts": 0,
+      "dev": ""
     },
     "t_1789162477855_8fip": {
       "count": 0,
