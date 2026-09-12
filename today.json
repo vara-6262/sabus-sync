@@ -118,11 +118,11 @@
     "t_1789162477855_8fip": {
       "count": 0,
       "reqs": [
-        false
+        true
       ],
       "done": false,
-      "ts": 0,
-      "dev": ""
+      "ts": 1789226326122,
+      "dev": "dev_cpu2lu"
     }
   },
   "flessioni": -30,
