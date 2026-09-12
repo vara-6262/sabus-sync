@@ -31,12 +31,12 @@
     "t_1788873587811_gr8z": {
       "count": 0,
       "reqs": [
-        false,
-        false
+        true,
+        true
       ],
       "done": false,
-      "ts": 0,
-      "dev": ""
+      "ts": 1789200693392,
+      "dev": "dev_cpu2lu"
     },
     "t_1788873703127_vj21": {
       "count": 0,
@@ -55,11 +55,11 @@
     "t_1788873902259_3syc": {
       "count": 0,
       "reqs": [
-        false
+        true
       ],
       "done": false,
-      "ts": 0,
-      "dev": ""
+      "ts": 1789200729165,
+      "dev": "dev_cpu2lu"
     },
     "t_1788874786459_ivza": {
       "count": 0,
