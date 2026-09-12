@@ -92,27 +92,27 @@
       "dev": "dev_cpu2lu"
     },
     "t_1788875162431_cyxk": {
-      "count": 1,
+      "count": 2,
       "reqs": [],
       "done": false,
-      "ts": 1789209508798,
+      "ts": 1789239311915,
       "dev": "dev_cpu2lu"
     },
     "t_1788875228579_fn6y": {
       "count": 1,
       "reqs": [],
       "done": false,
-      "ts": 1789209509527,
+      "ts": 1789239324618,
       "dev": "dev_cpu2lu"
     },
     "t_1788875359199_eu6n": {
-      "count": 0,
+      "count": 1,
       "reqs": [
         false,
         false
       ],
       "done": false,
-      "ts": 1789213049471,
+      "ts": 1789239363959,
       "dev": "dev_cpu2lu"
     },
     "t_1789162477855_8fip": {
@@ -126,5 +126,5 @@
     }
   },
   "flessioni": 0,
-  "flexTs": 1789226879151
+  "flexTs": 1789239324618
 }
