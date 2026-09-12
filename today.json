@@ -31,11 +31,11 @@
     "t_1788873587811_gr8z": {
       "count": 0,
       "reqs": [
-        true,
-        true
+        false,
+        false
       ],
       "done": false,
-      "ts": 1789200693392,
+      "ts": 1789238126079,
       "dev": "dev_cpu2lu"
     },
     "t_1788873703127_vj21": {
@@ -126,5 +126,5 @@
     }
   },
   "flessioni": 0,
-  "flexTs": 1789226879151
+  "flexTs": 1789234717921
 }
