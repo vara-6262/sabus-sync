@@ -1,5 +1,5 @@
 {
-  "date": "2026-09-12",
+  "date": "2026-09-13",
   "completions": {
     "t_1788873323089_xquq": {
       "count": 0,
@@ -16,17 +16,17 @@
         false
       ],
       "done": false,
-      "ts": 1789234672031,
-      "dev": "dev_cpu2lu"
+      "ts": 0,
+      "dev": ""
     },
     "t_1788873419428_rky7": {
       "count": 0,
       "reqs": [
-        true
+        false
       ],
       "done": false,
-      "ts": 1789209525006,
-      "dev": "dev_cpu2lu"
+      "ts": 0,
+      "dev": ""
     },
     "t_1788873587811_gr8z": {
       "count": 0,
@@ -35,15 +35,15 @@
         false
       ],
       "done": false,
-      "ts": 1789238126079,
-      "dev": "dev_cpu2lu"
+      "ts": 0,
+      "dev": ""
     },
     "t_1788873703127_vj21": {
       "count": 0,
       "reqs": [],
-      "done": true,
-      "ts": 1789209522120,
-      "dev": "dev_cpu2lu"
+      "done": false,
+      "ts": 0,
+      "dev": ""
     },
     "t_1788873779290_21wu": {
       "count": 0,
@@ -55,18 +55,18 @@
     "t_1788873902259_3syc": {
       "count": 0,
       "reqs": [
-        true
+        false
       ],
       "done": false,
-      "ts": 1789200729165,
-      "dev": "dev_cpu2lu"
+      "ts": 0,
+      "dev": ""
     },
     "t_1788874786459_ivza": {
       "count": 0,
       "reqs": [],
-      "done": true,
-      "ts": 1789209528611,
-      "dev": "dev_cpu2lu"
+      "done": false,
+      "ts": 0,
+      "dev": ""
     },
     "t_1788874810206_dkx0": {
       "count": 0,
@@ -85,44 +85,44 @@
       "dev": ""
     },
     "t_1788875130057_s7cc": {
-      "count": 2,
+      "count": 0,
       "reqs": [],
       "done": false,
-      "ts": 1789234717921,
-      "dev": "dev_cpu2lu"
+      "ts": 0,
+      "dev": ""
     },
     "t_1788875162431_cyxk": {
-      "count": 2,
+      "count": 0,
       "reqs": [],
       "done": false,
-      "ts": 1789239311915,
-      "dev": "dev_cpu2lu"
+      "ts": 0,
+      "dev": ""
     },
     "t_1788875228579_fn6y": {
-      "count": 1,
+      "count": 0,
       "reqs": [],
       "done": false,
-      "ts": 1789239324618,
-      "dev": "dev_cpu2lu"
+      "ts": 0,
+      "dev": ""
     },
     "t_1788875359199_eu6n": {
-      "count": 1,
+      "count": 0,
       "reqs": [
         false,
         false
       ],
       "done": false,
-      "ts": 1789239363959,
-      "dev": "dev_cpu2lu"
+      "ts": 0,
+      "dev": ""
     },
     "t_1789162477855_8fip": {
       "count": 0,
       "reqs": [
-        true
+        false
       ],
       "done": false,
-      "ts": 1789226326122,
-      "dev": "dev_cpu2lu"
+      "ts": 0,
+      "dev": ""
     }
   },
   "flessioni": 0,
