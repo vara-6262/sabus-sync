@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-14T05:18:42.427Z",
+  "generatedAt": "2026-09-14T05:19:42.439Z",
   "env": "Trento",
   "horizonDays": 7,
   "reminders": [
@@ -1174,7 +1174,6 @@
       "soglia": null,
       "costo": null,
       "requirements": [
-        "Chiudere luce",
         "Tirare l' acqua"
       ],
       "domain": {
