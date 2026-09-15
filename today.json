@@ -22,11 +22,11 @@
     "t_1788873419428_rky7": {
       "count": 0,
       "reqs": [
-        false
+        true
       ],
       "done": false,
-      "ts": 0,
-      "dev": ""
+      "ts": 1789496374823,
+      "dev": "dev_cpu2lu"
     },
     "t_1788873587811_gr8z": {
       "count": 0,
