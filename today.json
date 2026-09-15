@@ -13,11 +13,11 @@
     "t_1788873375941_pcle": {
       "count": 0,
       "reqs": [
-        false
+        true
       ],
       "done": false,
-      "ts": 0,
-      "dev": ""
+      "ts": 1789481396306,
+      "dev": "dev_cpu2lu"
     },
     "t_1788873419428_rky7": {
       "count": 0,
@@ -31,11 +31,11 @@
     "t_1788873587811_gr8z": {
       "count": 0,
       "reqs": [
-        false
+        true
       ],
       "done": false,
-      "ts": 0,
-      "dev": ""
+      "ts": 1789481402946,
+      "dev": "dev_cpu2lu"
     },
     "t_1788873703127_vj21": {
       "count": 0,
@@ -54,11 +54,11 @@
     "t_1788873902259_3syc": {
       "count": 0,
       "reqs": [
-        false
+        true
       ],
       "done": false,
-      "ts": 0,
-      "dev": ""
+      "ts": 1789481406611,
+      "dev": "dev_cpu2lu"
     },
     "t_1788874786459_ivza": {
       "count": 0,
@@ -98,11 +98,11 @@
       "dev": ""
     },
     "t_1788875228579_fn6y": {
-      "count": 0,
+      "count": 1,
       "reqs": [],
       "done": false,
-      "ts": 0,
-      "dev": ""
+      "ts": 1789481377852,
+      "dev": "dev_cpu2lu"
     },
     "t_1788875359199_eu6n": {
       "count": 0,
@@ -124,5 +124,5 @@
     }
   },
   "flessioni": -30,
-  "flexTs": 1789406775188
+  "flexTs": 1789481391779
 }
