@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-15T05:16:56.855Z",
+  "generatedAt": "2026-09-15T05:18:10.105Z",
   "env": "Trento",
   "horizonDays": 7,
   "reminders": [
@@ -1409,8 +1409,7 @@
       "soglia": 1,
       "costo": null,
       "requirements": [
-        "No cellulare",
-        "Fuori casa"
+        "no"
       ],
       "domain": {
         "days": [
