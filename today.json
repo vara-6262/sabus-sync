@@ -40,9 +40,9 @@
     "t_1788873703127_vj21": {
       "count": 0,
       "reqs": [],
-      "done": false,
-      "ts": 0,
-      "dev": ""
+      "done": true,
+      "ts": 1789497876974,
+      "dev": "dev_cpu2lu"
     },
     "t_1788873779290_21wu": {
       "count": 0,
