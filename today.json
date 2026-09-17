@@ -54,11 +54,11 @@
     "t_1788873902259_3syc": {
       "count": 0,
       "reqs": [
-        false
+        true
       ],
       "done": false,
-      "ts": 0,
-      "dev": ""
+      "ts": 1789632881437,
+      "dev": "dev_cpu2lu"
     },
     "t_1788874786459_ivza": {
       "count": 0,
@@ -91,11 +91,11 @@
       "dev": ""
     },
     "t_1788875162431_cyxk": {
-      "count": 0,
+      "count": 1,
       "reqs": [],
       "done": false,
-      "ts": 0,
-      "dev": ""
+      "ts": 1789632886983,
+      "dev": "dev_cpu2lu"
     },
     "t_1788875228579_fn6y": {
       "count": 0,
@@ -123,6 +123,6 @@
       "dev": ""
     }
   },
-  "flessioni": -10,
-  "flexTs": 1789503681610
+  "flessioni": 0,
+  "flexTs": 1789632886983
 }
