@@ -16,8 +16,8 @@
         false
       ],
       "done": false,
-      "ts": 0,
-      "dev": ""
+      "ts": 1789633127904,
+      "dev": "dev_cpu2lu"
     },
     "t_1788873419428_rky7": {
       "count": 0,
@@ -25,8 +25,8 @@
         false
       ],
       "done": false,
-      "ts": 0,
-      "dev": ""
+      "ts": 1789633133577,
+      "dev": "dev_cpu2lu"
     },
     "t_1788873587811_gr8z": {
       "count": 0,
@@ -34,15 +34,15 @@
         false
       ],
       "done": false,
-      "ts": 0,
-      "dev": ""
+      "ts": 1789633129312,
+      "dev": "dev_cpu2lu"
     },
     "t_1788873703127_vj21": {
       "count": 0,
       "reqs": [],
       "done": false,
-      "ts": 0,
-      "dev": ""
+      "ts": 1789633130442,
+      "dev": "dev_cpu2lu"
     },
     "t_1788873779290_21wu": {
       "count": 0,
@@ -80,8 +80,8 @@
         false
       ],
       "done": false,
-      "ts": 0,
-      "dev": ""
+      "ts": 1789633135804,
+      "dev": "dev_cpu2lu"
     },
     "t_1788875130057_s7cc": {
       "count": 0,
@@ -119,8 +119,8 @@
         false
       ],
       "done": false,
-      "ts": 0,
-      "dev": ""
+      "ts": 1789633138581,
+      "dev": "dev_cpu2lu"
     }
   },
   "flessioni": 0,
